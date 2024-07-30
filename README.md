@@ -26,6 +26,12 @@ Copy `custom.css` into `~/logseq/custom.css`
 10. Fixed code blocks style error.
 11. ......
 
+## For Publish
+
+If you use [logseq/publish-spa](https://github.com/logseq/publish-spa) for publishing your note to a website,there is some style problems yet.
+
+You can copy `export.css` to `~/logseq/export.css` to solve these problems.
+
 ## Some Screenshots
 
 ![alt text](/screenshots/image.png)
@@ -35,3 +41,5 @@ Copy `custom.css` into `~/logseq/custom.css`
 ## Thanks to
 
 I patched [Logseq Reflect Theme](https://github.com/natsustan/logseq-reflect-theme).
+
+Enjoy it.
