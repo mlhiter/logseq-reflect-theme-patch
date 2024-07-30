@@ -1,6 +1,6 @@
-# Logseq Reflect Theme （Patched version）
+# Logseq Reflect Theme （Patched Version）
 
-This is a patch version of [Logseq Reflect Theme](https://github.com/natsustan/logseq-reflect-theme)
+This is a patch version of [Logseq Reflect Theme](https://github.com/natsustan/logseq-reflect-theme).
 
 I really love this theme,but it has some style problems and I have some personalized demands.
 
